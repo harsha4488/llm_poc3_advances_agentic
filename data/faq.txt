@@ -1,0 +1,69 @@
+COMPANY POLICIES AND SUPPORT KNOWLEDGE BASE
+
+REFUND POLICY
+Refunds are processed within 5 business days after the returned item is received.
+Refunds are issued to the original payment method.
+Refunds are not available for digital products.
+Refund requests must be initiated within 14 days of delivery.
+If a refund is delayed beyond 7 business days, customers should contact support.
+
+ORDER PROCESSING
+Orders are processed within 24 to 48 hours after placement.
+Orders placed on weekends are processed on the next business day.
+Customers receive a confirmation email once the order is processed.
+Orders cannot be modified once shipped.
+
+SHIPPING INFORMATION
+Standard shipping takes 3 to 5 business days.
+Express shipping takes 1 to 2 business days.
+Shipping delays may occur due to weather or customs inspections.
+International shipping may take up to 10 business days.
+Tracking information is shared via email once the order ships.
+
+ORDER STATUS
+Order status can be checked using the order ID.
+Statuses include: Processing, Shipped, Out for Delivery, Delivered.
+If an order is marked delivered but not received, customers must report it within 48 hours.
+Lost orders are investigated within 5 business days.
+
+CANCELLATION POLICY
+Orders can be cancelled only if they have not been shipped.
+Cancellation requests must be made within 12 hours of order placement.
+Once cancelled, refunds are processed within 3 business days.
+Partially shipped orders cannot be cancelled.
+
+PAYMENT ISSUES
+Failed payments may occur due to insufficient balance or bank restrictions.
+Duplicate charges should be reported immediately.
+Payment disputes are resolved within 7 business days.
+Only supported payment methods are eligible for refunds.
+
+ACCOUNT MANAGEMENT
+Users can update their profile information at any time.
+Passwords must contain at least 8 characters.
+Accounts locked due to suspicious activity can be recovered via email verification.
+Account deletion requests are processed within 30 days.
+
+CUSTOMER SUPPORT
+Customer support operates Monday to Friday from 9 AM to 6 PM.
+Support tickets are prioritized based on severity.
+High priority issues are addressed within 4 hours.
+Support is unavailable on public holidays.
+
+RETURNS
+Items must be returned in original packaging.
+Damaged items must be reported within 24 hours of delivery.
+Return shipping costs are covered only for defective products.
+Return approvals are valid for 7 days.
+
+SECURITY AND COMPLIANCE
+All user data is encrypted at rest and in transit.
+Access to sensitive data is logged and audited.
+Security incidents are investigated within 24 hours.
+The system complies with GDPR and internal security standards.
+
+ESCALATION POLICY
+Issues unresolved after 2 attempts are escalated to a senior agent.
+Billing disputes above a defined threshold require manager approval.
+Security-related issues are immediately escalated.
+Low-confidence automated responses must be reviewed by a human agent.
